@@ -1,4 +1,3 @@
 name: route_great_circle
 title:  Great Circle Route
 version: '0.1'
-start_page: ROOT:route_great_circle.adoc 

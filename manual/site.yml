@@ -1,7 +1,7 @@
 site:
   title: Great Circle Route Plugin Manual
   url:  https://nowhere.net
-  start_page: route_great_circle:ROOT:route_great_circle.adoc
+  start_page: route_great_circle:ROOT:index.adoc
 
 content:
   sources:
