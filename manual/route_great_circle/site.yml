@@ -1,0 +1,20 @@
+site:
+  title: Great Circle Route Plugin Manual
+  url:  https://nowhere.net
+  start_page: route_great_circle:ROOT:route_great_circle.adoc
+
+content:
+  sources:
+    - url: ../..
+      start_path: manual/route_great_circle
+      branches: HEAD
+      edit_url: https://github.com/opencpn-manuals/route_pi/edit/master/{path}
+
+ui:   
+  bundle:
+    url: https://gitlab.com/leamas/antora-ui-default/-/raw/master/latest/ui-bundle.zip
+    snapshot: true
+
+output:
+  dir: ./docs
+  clean: true              
