@@ -1,8 +1,8 @@
 indexmenu_n_4
 
-== Great Circle Route
+= Great Circle Route
 
-=== Links
+== Links
 
 * Source: https://github.com/SaltyPaws/route_pi[Github Repository] +
 * Download: https://opencpn.org/OpenCPN/plugins/route.html[Download
@@ -11,7 +11,7 @@ Page] +
 http://www.cruisersforum.com/forums/showthread.php?p=1686937[Route_pi
 Discussion Thread]
 
-=== Route Plugin
+== Route Plugin
 
 “Salty Paws” route plugin handles much more than Great circles,
 introduced here.
