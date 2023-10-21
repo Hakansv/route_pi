@@ -3,245 +3,244 @@ msgstr ""
 "Project-Id-Version: opencpn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-29 19:15+0100\n"
-"PO-Revision-Date: 2023-10-04 18:33\n"
+"PO-Revision-Date: 2023-10-04 18:32\n"
 "Last-Translator: \n"
-"Language-Team: Portuguese, Brazilian\n"
-"Language: pt_BR\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: opencpn\n"
 "X-Crowdin-Project-ID: 49843\n"
-"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /plugins/route_pi/po/route_pi.pot\n"
 "X-Crowdin-File-ID: 118\n"
 
 #: src/route_pi.cpp:89 src/routegui.cpp:416
 msgid "Route"
-msgstr "Rota"
+msgstr "航线"
 
 #: src/route_pi.cpp:145
 msgid "ROUTE"
-msgstr "ROTA"
+msgstr "航线"
 
 #: src/route_pi.cpp:150
 msgid "Route Plotting plugin for OpenCPN"
-msgstr "Plotagem de Rota plugin para OpenCPN"
+msgstr "OpenCPN航线测绘插件"
 
 #: src/route_pi.cpp:155
 msgid "Route Plotting plugin for OpenCPN\n"
 "Plots Great Circle routes, Limited Circle Routes and Rhumb lines."
-msgstr "Plotagem de Rota plugin para OpenCPN\n"
-"Plota rotas grande círculo, rotas círculo limitado e linhas de rumo."
+msgstr "OpenCPN航线测绘插件\n"
+"测绘大圆航线，小圆航线及直线航线."
 
 #: src/route_pi.cpp:224
 msgid "Route Preferences"
-msgstr "Preferências de rota"
+msgstr "航线首选项"
 
 #: src/routegui.h:148
 msgid "Menu"
-msgstr "Menu"
+msgstr "菜单"
 
 #: src/routegui.h:169
 msgid "Preferences"
-msgstr "Preferências"
+msgstr "首选项"
 
 #: src/routegui_impl.cpp:138 src/routegui_impl.cpp:139
 #: src/routegui_impl.cpp:182 src/routegui_impl.cpp:183
 #: src/routegui_impl.cpp:598 src/routegui_impl.cpp:599
 #: src/routegui_impl.cpp:721 src/routegui_impl.cpp:722
 msgid "Error in calculation. Please check input!"
-msgstr "Erro no cálculo. Por favor, verifique a entrada!"
+msgstr "计算出错，请检查输入!"
 
 #: src/routegui_impl.cpp:155
 msgid "Export GPX file as"
-msgstr "Exportar arquivo GPX como"
+msgstr "导出GPX文件为"
 
 #: src/routegui_impl.cpp:299
 msgid "No Lat Limit!"
-msgstr "Sem limite de Lat!"
+msgstr "无纬度限值!"
 
 #: src/routegui_impl.cpp:305
 msgid "Export Great Circle GPX file as"
-msgstr "Exportar arquivo Grande Círculo GPX como"
+msgstr "导出大圆GPX文件为"
 
 #: src/routegui_impl.cpp:320
 msgid "error in input range validation"
-msgstr "erro na validação de entrada de intervalo"
+msgstr "输入量程有效性出错"
 
 #: src/routegui_impl.cpp:325 src/routegui_impl.cpp:329
 #: src/routegui_impl.cpp:333 src/routegui_impl.cpp:337
 msgid "Start Latitude>Limit!"
-msgstr "Começar a Latitude > limite!"
+msgstr "起始纬度>限值!"
 
 #: src/routegui_impl.cpp:385
 msgid "Error occured, aborting GCL calc!"
-msgstr "Ocorreu erro, anulando GCL calc!"
+msgstr "出错，中断GCL计算！"
 
 #: src/routegui_impl.cpp:693
 msgid "Brent's method not converging, check result"
-msgstr "Método de Brent não convergentes, Verifique resultado"
+msgstr "布伦特方法未集合，检查结果"
 
 #: src/routegui_impl.cpp:700
 msgid "Export Rhumb Line GPX file as"
-msgstr "Exportar arquivo GPX Linha de Rumo como"
+msgstr "导出直线航线GPX文件为"
 
 #: src/routegui_impl.h:49
 msgid "Route preferences"
-msgstr "Preferências de rota"
+msgstr "航线首选项"
 
 #: src/routegui_impl.h:55
 msgid "Route Plugin by SaltyPaws"
-msgstr "Plugin de Rota por SaltyPaws"
+msgstr "SaltyPaws制作的航线插件"
 
 #: src/routegui.cpp:27
 msgid "Great Circle\n"
 "Route"
-msgstr "Grande Círculo\n"
-"Rota"
+msgstr "大圆\n"
+"航线"
 
 #: src/routegui.cpp:40 src/routegui.cpp:164
 msgid "Input"
-msgstr "Entrada"
+msgstr "输入"
 
 #: src/routegui.cpp:45 src/routegui.cpp:169
 msgid "Waypoint\n"
 "Distance"
-msgstr "Waypoint\n"
-"Distancia"
+msgstr "航路点\n"
+"距离"
 
 #: src/routegui.cpp:53 src/routegui.cpp:86 src/routegui.cpp:104
 #: src/routegui.cpp:177 src/routegui.cpp:228 src/routegui.cpp:246
 #: src/routegui.cpp:264
 msgid "NM"
-msgstr "NM"
+msgstr "海里"
 
 #: src/routegui.cpp:63 src/routegui.cpp:205
 msgid "Calculate"
-msgstr "Calcular"
+msgstr "计算"
 
 #: src/routegui.cpp:73 src/routegui.cpp:215
 msgid "Result"
-msgstr "Resultado"
+msgstr "结果"
 
 #: src/routegui.cpp:78
 msgid "Great Circle\n"
 "Distance"
-msgstr "GrandeCírculo\n"
-"Distancia"
+msgstr "大圆航线\n"
+"距离"
 
 #: src/routegui.cpp:96
 msgid "Rhumb Line\n"
 "Distance"
-msgstr "Line de Rumo\n"
-"Distancia"
+msgstr "直线航线\n"
+"距离"
 
 #: src/routegui.cpp:115 src/routegui.cpp:275
 msgid "Export"
-msgstr "Exportar"
+msgstr "导出"
 
 #: src/routegui.cpp:117
 msgid "Great Circle (shortest) GPX"
-msgstr "Grande Círculo (mais curta) GPX"
+msgstr "大圆（最短）GPX"
 
 #: src/routegui.cpp:120
 msgid "Rhumb Line (fixed heading) GPX"
-msgstr "Linha de rumo (posição fixa) GPX"
+msgstr "直线航线（固定朝向）GPX"
 
 #: src/routegui.cpp:142
 msgid "Great Circle"
-msgstr "Grande círculo"
+msgstr "大圆"
 
 #: src/routegui.cpp:151
 msgid "Limited Circle\n"
 "Route"
-msgstr "Limitado Círculo\n"
-"Rota"
+msgstr "小圆\n"
+"航线"
 
 #: src/routegui.cpp:187
 msgid "Latitude  \n"
 "Limit"
-msgstr "Latitude \n"
-"Limit"
+msgstr "纬度限值"
 
 #: src/routegui.cpp:195 src/routegui.cpp:328 src/routegui.cpp:346
 #: src/routegui.cpp:376 src/routegui.cpp:394 src/routegui.cpp:487
 #: src/routegui.cpp:527 src/routegui.cpp:579 src/routegui.cpp:619
 msgid "\\u00b0"
-msgstr "\\u00b0"
+msgstr ""
 
 #: src/routegui.cpp:220
 msgid "Limited Circle\n"
 "Distance"
-msgstr "Limitado Círculo\n"
-"Distancia"
+msgstr "小圆\n"
+"距离"
 
 #: src/routegui.cpp:238
 msgid "Great Circle     \n"
 "Distance"
-msgstr "Grande círculo \n"
-"Distancia"
+msgstr "大圆     \n"
+"距离"
 
 #: src/routegui.cpp:256
 msgid "Rhumb Line     \n"
 "Distance"
-msgstr "Linha de Rumo\n"
-"Distancia"
+msgstr "直线航向     \n"
+"距离"
 
 #: src/routegui.cpp:277
 msgid "Limited Circle GPX"
-msgstr "Círculo limitado GPX"
+msgstr "小圆航线GPX"
 
 #: src/routegui.cpp:299
 msgid "Limited Circle"
-msgstr "Círculo limitado"
+msgstr "小圆"
 
 #: src/routegui.cpp:312 src/routegui.cpp:471
 msgid "Start of Route"
-msgstr "Início da rota"
+msgstr "航线开始"
 
 #: src/routegui.cpp:320 src/routegui.cpp:368
 msgid "Lattitude  "
-msgstr "Lattitude  "
+msgstr "纬度"
 
 #: src/routegui.cpp:338 src/routegui.cpp:386
 msgid "Longitude"
-msgstr "Longitude"
+msgstr "经度"
 
 #: src/routegui.cpp:360 src/routegui.cpp:563
 msgid "End of Route"
-msgstr "Fim da rota"
+msgstr "航线结束"
 
 #: src/routegui.cpp:408
 msgid "Naming"
-msgstr "Nomeação"
+msgstr "命名"
 
 #: src/routegui.cpp:430
 msgid "Start  "
-msgstr "Iniciar  "
+msgstr "开始  "
 
 #: src/routegui.cpp:444
 msgid "End     "
-msgstr "Fim     "
+msgstr "结束    "
 
 #: src/routegui.cpp:465
 msgid "Decimal Degree"
-msgstr "Graus decimais"
+msgstr "小数点度数"
 
 #: src/routegui.cpp:479 src/routegui.cpp:571
 msgid "Lat "
-msgstr "Lat "
+msgstr "纬度"
 
 #: src/routegui.cpp:495 src/routegui.cpp:535 src/routegui.cpp:587
 #: src/routegui.cpp:627
 msgid "'"
-msgstr "'"
+msgstr ""
 
 #: src/routegui.cpp:503 src/routegui.cpp:543 src/routegui.cpp:595
 #: src/routegui.cpp:635
 msgid "\""
-msgstr "\""
+msgstr ""
 
 #: src/routegui.cpp:507 src/routegui.cpp:599
 msgid "N"
@@ -253,7 +252,7 @@ msgstr "S"
 
 #: src/routegui.cpp:519 src/routegui.cpp:611
 msgid "Lon"
-msgstr "Lon"
+msgstr "经度"
 
 #: src/routegui.cpp:547 src/routegui.cpp:639
 msgid "E"
@@ -265,17 +264,17 @@ msgstr "W"
 
 #: src/routegui.cpp:657
 msgid "Convert to Degree"
-msgstr "Converter para grau"
+msgstr "转换为度"
 
 #: src/routegui.cpp:667
 msgid "\\u00b0 ' \""
-msgstr "\\u00b0 ' \""
+msgstr ""
 
 #: src/routegui.cpp:715
 msgid "General settings"
-msgstr "Definições gerais"
+msgstr "通用设置"
 
 #: src/routegui.cpp:725
 msgid "Opacity"
-msgstr "Opacidade"
+msgstr "不透明度"
 
